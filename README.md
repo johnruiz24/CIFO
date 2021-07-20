@@ -14,6 +14,7 @@ This study aims to evaluate the influences and the performance of different appr
 ## What does the program do?
 ### 1. Scrap the data
 1.1 Download the data from internet
+
 1.2 Save the data into the "data" folder
 
 ### 2. Load the data
