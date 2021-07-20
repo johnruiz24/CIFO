@@ -32,7 +32,6 @@ class Selection(Candidate):
 
         return fittest if (r<selection_rate) else weakest
 
-    ###Code brought from Dave's Library###
     def rank(self, candidates):
         candidates.sort(key=attrgetter('fitness'))
         # Sum all ranks
