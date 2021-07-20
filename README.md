@@ -31,3 +31,7 @@ This study aims to evaluate the influences and the performance of different appr
    4.1. Plotting the fitness landscape per generation
    
    4.2. The images will be saved into the 'data' folder
+
+## Plotting the Fitness Landscape
+
+<img width="1366" alt="image" src="https://user-images.githubusercontent.com/42159999/126250680-c50f6883-877c-4998-9064-7686d23b8436.png">
