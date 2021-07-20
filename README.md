@@ -1,4 +1,4 @@
-# Sudoku Solver Usign Genethic Algorithm (GA)
+# Sudoku Solver Usign Genethic Algorithms (GA)
 
 This study aims to evaluate the influences and the performance of different approaches, algorithms, and genetic operators to solve the resolution of any sudoku puzzle with Genetic Algorithm and documenting the results obtained. The two objectives of this study were to explore and test the usefulness and efficiency of genetic algorithms to address this constraint satisfaction problem through the utilization of a wide set of techniques and the second objective is to explore how problems that are considered difficult for a human solver are also difficult for the genetic algorithm validated through the testing of multiples level of difficulties.
 
