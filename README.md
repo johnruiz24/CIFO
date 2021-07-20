@@ -4,9 +4,12 @@ This study aims to evaluate the influences and the performance of different appr
 
 ## How to run the program?
 
-The program must be run using the file run.py
+1. The program must be run using the file run.py
 
-The folder data must exist on your local directory to be able to run the program
+2. The folder data must exist on your local directory to be able to run the program
 
-At the end the process the program generates an statisticall summary of the timing of the resolution likewise print some images with the fitness landscape throughout the generations per complexity
+3. At the end the process the program generates an statisticall summary of the timing of the resolution likewise print some images with the fitness landscape throughout the generations per complexity
+
+
+## What does the program do?
 
